@@ -6498,5 +6498,7 @@
                 "name": "enamorus-therian",
                 "url": "https://pokeapi.co/api/v2/pokemon/10249/"
             }    
-    ]
+    ],
+    "hospitalData":[],
+    "doctorsData":[]
   }

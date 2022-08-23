@@ -6500,5 +6500,16 @@
             }    
     ],
     "hospitalData":[],
-    "doctorsData":[]
+    "doctorsData":[],
+    "temporaryLogin" : {
+        "username" : "",
+        "email" : "",
+        "password" : "",
+        "isAuthed" : false,
+        "country" : "",
+        "companyName" : "",
+        "companySize" : "",
+        "mobile" : "",
+        "id" : 1
+     }
   }
